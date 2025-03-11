@@ -30,7 +30,7 @@ d. Player with max sixes
     1.Add batsman to column
     2.Add count of batsman runs to rows
     3.In filter:
-    4.Batsman runs > all values > 6 to 6 > add to context (Batsman runs > duplicate > convert to discrete > select 6)
-    5.Date > year > (any year) > add to context
-    6.Batsman > top > by field > 1
+        Batsman runs > all values > 6 to 6 > add to context (Batsman runs > duplicate > convert to discrete > select 6)
+        Date > year > (any year) > add to context
+        Batsman > top > by field > 1
 
